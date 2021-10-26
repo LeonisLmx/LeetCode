@@ -56,6 +56,10 @@ public class Title213 {
         Title213 title213 = new Title213();
 //        System.out.println(title213.rob(new int[]{2,3,2}));
 //        System.out.println(title213.rob(new int[]{1,2,3,1}));
-        System.out.println(title213.rob(new int[]{1,1,1,2}));
+        //System.out.println(title213.rob(new int[]{1,1,1,2}));
+        System.out.println((int)'a');
+        System.out.println((int)'b');
+        System.out.println((int)'A');
+        System.out.println((int)'z');
     }
 }
